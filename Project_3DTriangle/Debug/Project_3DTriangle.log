@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\Gustavo Rojas Tovar\escritorio\Project_3DTriangle\Project_3DTriangle\Source.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'gl\glut.h': No such file or directory
